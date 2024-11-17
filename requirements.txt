@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+langchain-core
+sentence-transformers
+numpy
+fastapi
+python-dotenv
+uvicorn
+docarray
