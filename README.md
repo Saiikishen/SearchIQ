@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### **5. Run the Application**
 Start the **FastAPI** backend:
 ```bash
-uvicorn rag_llm:app --reload
+uvicorn llm_rag:app --reload
 ```
 
 Start the **Streamlit** frontend:
