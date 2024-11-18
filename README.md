@@ -67,6 +67,13 @@ pip install -r requirements.txt
     ```bash
     export SERPAPI_KEY="your-serpapi-key"
     ```
+* **Groq API**:
+   * Create an acout at Groq
+   * Add your API key to environment variables:
+  ```bash
+    export GROQ_API_KEY="your-serpapi-key"
+    ```
+     
 * **Google Sheets API**:
   * Download the `google_credentials.json` file from your Google Cloud project.
   * Place it in the project directory.
