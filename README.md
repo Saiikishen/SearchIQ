@@ -93,5 +93,5 @@ streamlit run app.py
 
   Video Link:
   ```
-https://saikishen-pv.neetorecord.com/watch/45a10482-79ac-4fbb-ba51-d74c420323d6```
+https://saikishen-pv.neetorecord.com/watch/45a10482-79ac-4fbb-ba51-d74c420323d6
 
