@@ -71,7 +71,7 @@ pip install -r requirements.txt
    * Create an acout at Groq
    * Add your API key to environment variables:
   ```bash
-    export GROQ_API_KEY="your-serpapi-key"
+    export GROQ_API_KEY="your-groq_api-key"
     ```
      
 * **Google Sheets API**:
