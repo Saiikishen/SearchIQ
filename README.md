@@ -89,4 +89,4 @@ Start the **Streamlit** frontend:
 streamlit run app.py
 ```
 
-![SearchIQ Dataflow](/assets/sys_arch.png)
+![SearchIQ Dataflow](/sys_arch.png)
